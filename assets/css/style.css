@@ -1,0 +1,56 @@
+body {
+    /* background-color: lightcoral; */
+    background-image: url(../images/tv.jpg);
+    color: black;
+}
+
+.container {
+    background-color: white;
+    margin: 5% 10% 5% 10%;
+    padding-bottom: 5%;
+    font-family: cursive;  
+    box-shadow: 2px 2px 2px 2px #000000;  
+}
+
+header {
+    padding: 1% 1%;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: cursive;
+}
+
+#start {
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10%;
+    /* margin-right: 15%; */
+    color: white;
+}
+
+.btn-large {
+    margin-top: 15%;
+    padding-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.btn {
+    display: block;
+    margin-top: 5%;
+    /* padding-top: 10%; */
+    margin-left: 5%;
+}
+
+#question {
+    text-align: center;
+    padding-top: 5%;
+}
+
+#gameOver {
+    text-align: center;
+}
+
+#timer {
+    text-align: center;
+}
