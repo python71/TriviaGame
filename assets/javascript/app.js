@@ -16,7 +16,7 @@ var isTimer = false;
 
 //  Game Timer function
 function timer() {
-    var sec = 5;
+    var sec = 30;
     interval = setInterval(function () {
         setTimer.text(sec);
         sec--;
